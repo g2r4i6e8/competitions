@@ -1,0 +1,19 @@
+# Competition submissions by g2r4i6e8
+
+*Andrey Kolomatskiy* - data enthusiast from St. Petersburg (Russia). 
+
+Kaggle: https://www.kaggle.com/g2r4i6e8
+E-mail: andrey@kolomatskiy.ru
+
+### Overview
+
+| Name | Description | Type | Algorithms | Statistics |
+| ------ | ------ | ------ | ------ | ------ |
+| [Titanic] [Titanic] | A model that predicts which passengers survived the Titanic shipwreck. | Classification (binary) | LogisticRegression, SVM, K-Means, Decision Tree, Random Forest, Hard Voting Ensemble, Gradient Boosting, LGBM, CatBoost | Best: 0.7799 (Top 8%) 
+| [Spaceship Titanic] [SpaceTitanic] | A model to predict whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly. | Classification (binary) | LogisticRegression, SVM, K-Means, Decision Tree, Random Forest, Hard Voting Ensemble, Gradient Boosting, LGBM, CatBoost | Best: 0.8043 (Top 7%)
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+   [Titanic]: <https://github.com/g2r4i6e8/competitions/tree/main/titanic>
+   [SpaceTitanic]: <https://github.com/g2r4i6e8/competitions/tree/main/spaceship-titanic>
+   >
